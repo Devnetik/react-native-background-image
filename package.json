@@ -1,7 +1,7 @@
 {
   "name": "react-native-background-image",
   "version": "1.0.0",
-  "description": "",
+  "description": "Fills the parent container with a full size image",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "native",
     "component"
   ],
-  "author": "",
+  "author": "Michael Malura <maluramichael@googlemail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Devnetik/react-native-background-image/issues"
