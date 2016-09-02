@@ -1,6 +1,6 @@
 {
   "name": "react-native-background-image",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fills the parent container with a full size image",
   "main": "index.js",
   "scripts": {
